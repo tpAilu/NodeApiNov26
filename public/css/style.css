@@ -1,0 +1,85 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	margin-top: 155px;
+	height: 100%;
+	background-color: #2f4960;
+	background-image: linear-gradient(to bottom right, #2f4960 10%, #102040);
+}
+
+.navbar-brand {
+	color: chartreuse;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+	font-weight: bolder;
+	letter-spacing: 3px;
+}
+
+.navbar-brand img {
+	width: 80px;
+	height: 55px;
+}
+
+.title {
+	margin-bottom: 30px;
+}
+
+.title h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 65px;
+	font-weight: bolder;
+	letter-spacing: 3px;
+	color: #fff;
+	text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+	text-align: center;
+	text-transform: uppercase;
+}
+
+form {
+	margin-left: 300px;
+	margin-bottom: 100px;
+	justify-content: center;
+	color: #fff;
+	width: 50%;
+}
+
+li {
+	color: #fff;
+}
+
+#foot small {
+	font-size: 15px;
+}
+
+.nav-link {
+	color: #fb7342;
+	font-family: 'Dosis', sans-serif;
+	font-size: 20px;
+	letter-spacing: 2px;
+}
+
+.links {
+	margin-right: 60px;
+}
+
+.title h1 {
+	text-align: center;
+	color: #fff;
+}
+
+footer {
+	margin-top: 3px;
+	width: 100%;
+}
+
+#foot {
+	font-family: 'Dosis', sans-serif;
+	letter-spacing: 2px;
+	color: chartreuse;
+	text-align: center;
+	padding: 3px;
+}
